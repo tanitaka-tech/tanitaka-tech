@@ -7,6 +7,9 @@
 
 [![ConcurrentUniTaskHandler Card](https://github-readme-stats.vercel.app/api/pin/?username=tanitaka-tech&repo=ConcurrentUniTaskHandler&show_owner=true&theme=vue-dark)](https://github.com/cathei/BakingSheet) 
 
+[![StateVariable Card](https://github-readme-stats.vercel.app/api/pin/?username=tanitaka-tech&repo=StateVariable&show_owner=true&theme=vue-dark)](https://github.com/cathei/BakingSheet) 
+
+
 
 <!--
 **tanitaka-tech/tanitaka-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
