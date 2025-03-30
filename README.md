@@ -1,6 +1,5 @@
 ### Hi, I'm tanitaka-tech 🔥
 
-
 <img src="https://github.com/user-attachments/assets/fd47e421-7d7a-4490-9f4b-d3b9d4454748" alt="my logo" width="138px;" align="right">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tanitaka-tech&theme=vue-dark)
